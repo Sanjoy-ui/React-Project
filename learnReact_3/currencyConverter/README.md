@@ -16,6 +16,7 @@ A simple and elegant currency converter built with **React**. It uses real-time 
 
 ---
 
+
 ## 📁 Project Structure
 src/
 ├── App.jsx
