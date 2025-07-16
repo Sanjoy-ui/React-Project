@@ -18,6 +18,7 @@ A simple and elegant currency converter built with **React**. It uses real-time 
 
 
 ## 📁 Project Structure
+```
 src/
 ├── App.jsx
 ├── components/
@@ -25,6 +26,7 @@ src/
 ├── hooks/
 │ └── useCurrencyInfo.js
 └── main.jsx
+```
 
 ---
 
@@ -34,6 +36,7 @@ src/
    ```bash
    git clone https://github.com/your-username/currency-converter-react.git
    cd currency-converter-react
+   ```
   ## Install dependencies: 
 npm install
 ## Run the development server:
